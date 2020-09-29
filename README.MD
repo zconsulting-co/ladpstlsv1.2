@@ -1,5 +1,7 @@
 ## MIT Kerberos Ticket Manager
 
+https://web.mit.edu/kerberos/dist/
+
 C:\ProgramData\MIT\Kerberos5\krb5.ini
 
 ## Windows host file
