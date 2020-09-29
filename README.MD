@@ -4,7 +4,9 @@ https://web.mit.edu/kerberos/dist/
 
 C:\ProgramData\MIT\Kerberos5\krb5.ini
 
-## Windows host file
+## Windows hosts file
+
+C:\Windows\System32\drivers\etc\hosts
 
 ip-server dc01.lab.test
 
